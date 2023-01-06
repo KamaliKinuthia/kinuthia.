@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://127.0.0.1:5500/wk4.html#services -->
+<html lang="en" class="sr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <title>Personal portifolio</title>
+<link rel="stylesheet" href="./week4_files/wk4.css" type="text/css"><link rel="stylesheet" href="./week4_files/boxicons.min.css"></head>
+<body style="height: 100%;">
+    <!--header section-->
+    <header class="sticky">
+        <a href="http://127.0.0.1:5500/wk4.html#" class="logo"><p>Ozawi</p></a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+        <ul class="navbar">
+            <li><a href="http://127.0.0.1:5500/wk4.html#home">Home</a></li>
+            <li><a href="http://127.0.0.1:5500/wk4.html#about">About Me</a></li>
+            <li><a href="http://127.0.0.1:5500/wk4.html#services">Services</a></li>
+            <li><a href="http://127.0.0.1:5500/wk4.html#contacts">Contacts</a></li>
+        </ul>
+    </header>
+   
+    <!---home section-->
+    <section class="home">
+        <div class="home-img">
+            <img src="./week4_files/section21.png" alt="">
+        </div>
+        <div class="home-text" data-sr-id="0" style="visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 25, 0, 1); transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
+            <h4>Hi</h4>
+            <h1>I'm <span>KAMALI <br>KINUTHIA</span></h1>
+            <h3>WEB DEV</h3>
+            <a href="http://127.0.0.1:5500/wk4.html#contacts" class="btn">Contact Me</a>
+        </div>
+    </section>
+
+    <!--ABOUT ME SECTION-->
+    <section class="about" id="about" data-sr-id="2" style="visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 25, 0, 1); transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
+        <div class="about-img">
+            <img src="./week4_files/section21.png" alt="">
+        </div>
+        <div class="about-text">
+            <h2>About me</h2>
+            <h4>HI, i'll help with your project</h4>
+            <p> Stuck? Don't panick<br>I'll do the project for you</p>
+            <div class="about-grid">
+                <div class="about-in">
+                    <h5>1. Problem solving</h5>
+                </div>
+
+                <div class="about-in">
+                    <h5>2. Creative</h5>
+                </div>
+
+                <div class="about-in">
+                    <h5>3. High Quality</h5>
+                </div>
+
+                <div class="about-in">
+                    <h5>4. In time</h5>
+                </div>
+            </div>
+            <a href="http://127.0.0.1:5500/wk4.html#contacts" class="btn">Hire Me</a>
+        </div>
+    </section>
+
+    <!--services section-->
+    <section class="services" id="services" data-sr-id="3" style="visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0.2s, transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0.2s;">
+        <div class="main-text">
+            <h2>My Services</h2>
+            <h4>For A Better Experience</h4>
+        </div>
+        <div class="service-content">
+            <div class="box">
+                <img src="./week4_files/webdev.jpg" alt="">
+                <h3>Web Development</h3>
+                <p>Classic websites<br> creative web designs created nicely delivered on time</p>
+                <a href="http://127.0.0.1:5500/wk4.html#" class="btn">See More</a>
+            </div>
+
+            <div class="box">
+                <img src="./week4_files/mobile dev.jpg" alt="">
+                <h3>Video Editting</h3>
+                <p>Super awesome<br> nicely eddited videos delivered on time</p>
+                <a href="http://127.0.0.1:5500/wk4.html#" class="btn">See More</a>
+            </div>
+        </div>
+    </section>
+
+    <!--contact section-->
+    <section class="contacts" id="contacts" data-sr-id="4" style="visibility: visible; opacity: 0; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 25, 0, 1); transition: opacity 2.5s cubic-bezier(0.5, 0, 0, 1) 0s, transform 2.5s cubic-bezier(0.5, 0, 0, 1) 0s;">
+        <div class="contact-text">
+            <h2>Find me on</h2>
+        <div class="contact-list">
+            <li><a href="http://127.0.0.1:5500/wk4.html#">KAMALI KINUTHIA</a></li>
+            <li><a href="http://127.0.0.1:5500/wk4.html#">kamalikinuthia3@gmail.com</a></li>
+            <li><a href="http://127.0.0.1:5500/wk4.html#">+254792013220</a></li>
+        </div>
+        <div class="contact-icons">
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bxl-linkedin"></i></a>
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bxl-twitter"></i></a>
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bxl-whatsapp"></i></a>
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bx-envelope"></i></a>
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bx-phone-call"></i></a>
+            <a href="http://127.0.0.1:5500/wk4.html#"><i class="bx bxl-telegram"></i></a>
+        </div>
+        </div>
+        <div class="contact-form">
+            <form action="http://127.0.0.1:5500/wk4.html">
+                <input type="" placeholder="name" required="">
+                <input type="email" placeholder="email address" required="">
+                <input type="" placeholder="subject" required="">
+                <textarea name="" id="" cols="40" rows="10" placeholder="type message here"></textarea>
+                <input type="submit" value="submit" class="send">
+            </form>
+        </div>
+        <div class="footer">
+            <p>Developed by KAMALI KINUTHIA</p>
+        </div>
+    </section>
+
+    <!--BACK TO TOP-->
+    <a href="http://127.0.0.1:5500/wk4.html#" class="back-to-top"><i class="bx bx-up-arrow-circle"></i></a>
+
+
+    <script src="./week4_files/scrollreveal"></script>
+    <!--custom js link-->
+    <script type="text/javascript" src="./week4_files/wk4.js.download"></script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
